@@ -113,8 +113,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "e3b64c68ebac7e8d32d737ff2e9dbfaa",
-                "keyId": "64d63816870b509da34e7b4f16a572fb"
+                "key": "1dfffb461c97f2eaeeb5c7b0f0c366f3",
+                "keyId": "6a316555d5855f0384db82088e90891b"
             }
         }
     },
@@ -239,8 +239,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "390311ff6faead09ce08437630e31a2d",
-                "keyId": "f4ec9de941215b38aa4fef6fffaaae2a"
+                "key": "bc305f2607a9ec7182855518aa4a74a6",
+                "keyId": "e175ef11c4ea57208364717840ab30c2"
             }
         }
     },
@@ -706,8 +706,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "b3f41f7686931fe4182395408f6d193d",
-                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
+                "key": "ea578142b2345c6a78a222ee7582492f",
+                "keyId": "0a07688f58425b56b5d5290e86c60f52"
             }
         }
     },
@@ -3003,8 +3003,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "f8740b7324f779f6bb919a1aaf47a7f2",
-                "keyId": "d2fdd051136556f4815bba3801689c22"
+                "key": "5bf5f8a81c28c0551eb90a328f6dd1b3",
+                "keyId": "e0508c09026d58c99edeba353e4f19bd"
             }
         }
     },
@@ -3286,7 +3286,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=636",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
         "name": "Zee Cinemalu HD",
-        "category": "Telugu"
+        "category": "Telugu",
+        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "f76108153ff1dd9eef93d43740c00da8",
+                "keyId": "593d72654a0a5d4c8c205be3e78b3390"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=637",
